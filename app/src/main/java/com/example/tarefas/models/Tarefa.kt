@@ -1,6 +1,6 @@
 package com.example.tarefas.models
 
-class Tarefa (
+data class Tarefa (
     val titulo: String,
     val descricao: String
     )
